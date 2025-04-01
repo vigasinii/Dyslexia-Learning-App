@@ -49,9 +49,4 @@ streamlit run app.py
 - Streamlit
 - OCR libraries (Tesseract or Google Vision API)
 
-## Contributing
-Feel free to submit pull requests for new features or bug fixes. Ensure you follow coding standards and include relevant tests.
-
-## License
-This project is licensed under the MIT License.
 
